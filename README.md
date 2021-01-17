@@ -7,6 +7,8 @@ My colleague Jack loves the PlanMyTrip app as do the beta testers. As with any n
 The purpose of this report is to analyze world weather as well as create a tool that assists travelers on their vacations and their trips all over the world.
 
 ![Map Markers](Resources/ReadMeMarkers.png)
+![Map Routing](Resources/ReadMeRoute.png)
+![Map Trip](Resources/ReadMeTrip.png)
 
 
 
