@@ -43,6 +43,5 @@ The purpose of this analysis is to visualize various world weather conditions an
 - Create a marker layer map with a pop-up marker for each city on the itinerary. Mode of transportation was driving.
 
 ![Map Routing](Resources/ReadMeRoute.png)
-![Map Markers](Resources/ReadMeMarkers.png)
-![Map Routing](Resources/ReadMeRoute.png)
+
 ![Map Trip](Resources/ReadMeTrip.png)
