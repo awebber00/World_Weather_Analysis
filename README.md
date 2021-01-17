@@ -6,15 +6,10 @@ My colleague Jack loves the PlanMyTrip app as do the beta testers. As with any n
 ### Project Purpose & Background
 The purpose of this analysis is to visualize various world weather conditions and place them in dataframes as well as create tools that assist travelers on their vacations and their trips all over the world.
 
-![Map Markers](Resources/ReadMeMarkers.png)
-![Map Routing](Resources/ReadMeRoute.png)
-![Map Trip](Resources/ReadMeTrip.png)
-
 # Resources Used
 - Data Source For API Calls: https://openweathermap.org/api, https://Google.com/maps
 
 - Software: Jupyter Notebook, Pandas Library, CityPy, Python Request, APIs, JSON Traversals
-
 
 
 ## Summary
@@ -46,4 +41,5 @@ The purpose of this analysis is to visualize various world weather conditions an
 ### Part 3
 - Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. 
 - Create a marker layer map with a pop-up marker for each city on the itinerary.
+
 ![Map Routing](Resources/ReadMeRoute.png)
