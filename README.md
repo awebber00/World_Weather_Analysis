@@ -38,3 +38,12 @@ The purpose of this analysis is to visualize various world weather conditions an
 ![Data Frame](Resources/ReadMeDataFrame.png)
 
 ### Part 2
+- Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. 
+- Show those destinations on a marker layer map with pop-up markers.
+
+![Map Markers](Resources/ReadMeMarkers.png)
+
+### Part 3
+- Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. 
+- Create a marker layer map with a pop-up marker for each city on the itinerary.
+![Map Routing](Resources/ReadMeRoute.png)
