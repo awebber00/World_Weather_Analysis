@@ -40,6 +40,9 @@ The purpose of this analysis is to visualize various world weather conditions an
 
 ### Part 3
 - Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. 
-- Create a marker layer map with a pop-up marker for each city on the itinerary.
+- Create a marker layer map with a pop-up marker for each city on the itinerary. Mode of transportation was driving.
 
 ![Map Routing](Resources/ReadMeRoute.png)
+![Map Markers](Resources/ReadMeMarkers.png)
+![Map Routing](Resources/ReadMeRoute.png)
+![Map Trip](Resources/ReadMeTrip.png)
