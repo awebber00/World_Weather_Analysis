@@ -25,11 +25,11 @@ The purpose of this analysis is to visualize various world weather conditions an
 - Performing an API call with the OpenWeatherMap.
 - Retrieval of the following information from the API call:
 
-    '''
+    ```
     Latitude and longitude
     Maximum temperature
     Percent humidity
     Percent cloudiness
     Wind speed
     Weather description (for example, clouds, fog, light rain, clear sky)
-    '''
+    ```
