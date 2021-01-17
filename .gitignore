@@ -1,5 +1,9 @@
-# adding config.py file very important
+# adding config1.py file very important
 config1.py
+
+#Adding Additional Files
+API_practice.ipynb
+random_numbers.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
