@@ -16,7 +16,7 @@ The purpose of this analysis is to visualize various world weather conditions an
 
 ### Part 1
 - A set of 2,000 random latitudes and longitudes were generated.
-- Getting the nearest city using the citipy module.
+- Calculated the nearest city using the citipy module.
 - Performing an API call with the OpenWeatherMap.
 - Retrieval of the following information from the API call:
 
@@ -28,19 +28,19 @@ The purpose of this analysis is to visualize various world weather conditions an
     Wind speed
     Weather description (for example, clouds, fog, light rain, clear sky)
     ```
-- Adding the collected data to a new DataFrame
+- Added the collected data to a new DataFrame
 
 ![Data Frame](Resources/ReadMeDataFrame.png)
 
 ### Part 2
-- Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. 
-- Show those destinations on a marker layer map with pop-up markers.
+- Used input statements to retrieve customer weather preferences, then used those preferences to identify potential travel destinations and nearby hotels. 
+- Displayed those destinations on a marker layer map with pop-up markers.
 
 ![Map Markers](Resources/ReadMeMarkers.png)
 
 ### Part 3
-- Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. 
-- Create a marker layer map with a pop-up marker for each city on the itinerary. Mode of transportation was driving.
+- Used the Google Directions API to create a travel itinerary that shows the route between four cities chosen from a customer’s possible travel destinations. 
+- Created a marker layer map with a pop-up marker for each city on the itinerary. The mode of transportation chosen was by car.
 
 ![Map Routing](Resources/ReadMeRoute.png)
 
