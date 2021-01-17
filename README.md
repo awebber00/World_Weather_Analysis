@@ -34,3 +34,5 @@ The purpose of this analysis is to visualize various world weather conditions an
     Weather description (for example, clouds, fog, light rain, clear sky)
     ```
 - Adding the collected data to a new DataFrame
+
+### Part 2
