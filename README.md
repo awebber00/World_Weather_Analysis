@@ -30,6 +30,8 @@ The purpose of this analysis is to visualize various world weather conditions an
     ```
 - Added the collected data to a new DataFrame
 
+* Note: All images that are screen shots are mine. All other photos are sourced from Google Images.
+
 ![Data Frame](Resources/ReadMeDataFrame.png)
 
 ### Part 2
